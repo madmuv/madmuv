@@ -13,9 +13,9 @@
 
 ### My Github summary
 ![Madmuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmuv&show_icons=true&theme=tokyonight)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/madmuv/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
 
 
 ### My Hobies
-- Listten my songs on ![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)![Madmuv's Soundcloud](https://soundcloud.com/muv-donyawan)<br />
-- Read my articles on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)![Madmuv's Medium](https://medium.com/@d.kritaisong)
+- ![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white) ![Madmuv's Soundcloud](https://soundcloud.com/muv-donyawan)<br />
+- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Madmuv's Medium](https://medium.com/@d.kritaisong)
