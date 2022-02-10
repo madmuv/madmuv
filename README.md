@@ -12,8 +12,8 @@
 
 
 ### My Github summary
-![Madmuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmuv&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Madmuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmuv&show_icons=true&theme=tokyonight)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/madmuv/github-readme-stats&show_icons=true&theme=tokyonight)
 
 
 ### My Hoobies
