@@ -11,7 +11,7 @@
 
 ### My Github summary
 ![Madmuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmuv&show_icons=true&theme=tokyonight)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br />
 
 
 ### My Hobies
