@@ -7,8 +7,3 @@
 ### My Github summary
 ![Madmuv's GitHub stats](https://github-readme-stats.vercel.app/api?username=madmuv&show_icons=true&theme=tokyonight)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madmuv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br />
-
-
-### My Hobies
-- ![listen my songs](https://soundcloud.com/muv-donyawan)<br />
-- ![read my articles](https://medium.com/@d.kritaisong)
